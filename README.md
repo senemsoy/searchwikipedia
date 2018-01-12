@@ -3,4 +3,4 @@ Web app that takes a keyword as an input and searches relevant Wikipedia article
 
 Stack: HTML | CSS | Javascript | jQuery | Bootstrap | MediaWiki API
 
-Here is a [demo]("https://senemsoy.github.io/searchwikipedia/").
+Here is a [demo](https://senemsoy.github.io/searchwikipedia/).
